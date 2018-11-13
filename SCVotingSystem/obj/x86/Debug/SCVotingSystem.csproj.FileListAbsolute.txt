@@ -1,0 +1,50 @@
+C:\Users\Jhun Roy\documents\visual studio 2010\Projects\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.LoginForm.resources
+C:\Users\Jhun Roy\documents\visual studio 2010\Projects\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.Properties.Resources.resources
+C:\Users\Jhun Roy\documents\visual studio 2010\Projects\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.csproj.GenerateResource.Cache
+C:\Users\Jhun Roy\documents\visual studio 2010\Projects\SCVotingSystem\SCVotingSystem\bin\Debug\SCVotingSystem.exe
+C:\Users\Jhun Roy\documents\visual studio 2010\Projects\SCVotingSystem\SCVotingSystem\bin\Debug\SCVotingSystem.pdb
+C:\Users\Jhun Roy\documents\visual studio 2010\Projects\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.exe
+C:\Users\Jhun Roy\documents\visual studio 2010\Projects\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.pdb
+C:\Users\Jhun Roy\documents\visual studio 2010\Projects\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.exe
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.pdb
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\bin\Debug\SCVotingSystem.exe
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\bin\Debug\SCVotingSystem.pdb
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.LoginForm.resources
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.Properties.Resources.resources
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\C8\Desktop\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.AdminForm.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\bin\Debug\SCVotingSystem.exe
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\bin\Debug\SCVotingSystem.pdb
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.AddCandidate.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.AdminForm.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.CandidateList.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.VotingResult.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.LoginForm.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.Properties.Resources.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.RegisterStudents.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.csproj.GenerateResource.Cache
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.exe
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.pdb
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.AddStaff.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.StaffForm.resources
+C:\Users\Jhun Roy\Desktop\Softwen\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.DeleteForm.resources
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.exe
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.pdb
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.csprojResolveAssemblyReference.cache
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.AddCandidate.resources
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.AddStaff.resources
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.AdminForm.resources
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.CandidateList.resources
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.LoginForm.resources
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.Properties.Resources.resources
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.RegisterStudents.resources
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.StaffForm.resources
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.csproj.GenerateResource.Cache
+D:\SCVotingSystem\SCVotingSystem\bin\Debug\SCVotingSystem.exe
+D:\SCVotingSystem\SCVotingSystem\bin\Debug\SCVotingSystem.pdb
+D:\SCVotingSystem\SCVotingSystem\obj\x86\Debug\SCVotingSystem.VotingResult.resources
+D:\SCVotingSystem\SCVotingSystem\bin\Debug\MySql.Data.DLL
